@@ -1,3 +1,5 @@
 # An Analysis of Kickstarter Campaigns
 Performed an analysis on Kickstarter data to uncover trends such as successful kickstarter campaigns in the United States. 
 ![Parent Category Outcomes](/images/Parent_Category_Outcomes.png) This chart gives insight into which parent categories performed well and which ones did not. For our specific analysis, we are interested in creating a play, so the subcategory had to be filtered. 
+![Success Based on Launch Date](/images/Theater_Outcomes_vs_Launch.png) This graph shows the success and failures of theater outcomes base don the month in which the campiagn was launched. The most successful campaigns were launched in March so I would recommend that Louise take into account the month in which she is planning on launching her campaign. Additionally, she could do further analysis to see if there are specific days or weeks that are more optimal than others based on the data. 
+![Comparison of Outcomes and Goals](/images/Outcomes_vs_Goals.png) This graph shows the comparison of outcomes (success and failture) based on varying ranges of fundraising goals. 
