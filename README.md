@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-## Overwiew of Project
+## Overview of Project
 
 ### Purpose 
 The purpose of this analysis was to help Louise, a girl who wants to start a crowdfunding campaign that will help to fund a play called Fever. She has access to a lot of data on previous Kickstarter campaigns and this analysis will allow her to see if there are specific factors that make a campaign successful or unsuccessful.  
